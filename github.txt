@@ -1,0 +1,48 @@
+Apa Itu Git?
+Sebelum membahas topik ini lebih lanjut, Anda harus tahu dan paham kalau Git adalah inti atau jantung GitHub. Git merupakan sistem pengontrol versi yang dikembangkan oleh Linus Torvalds (yang juga menciptakan dan mengembangkan Linux).
+
+Apa Itu Sistem Pengontrol Versi?
+Pada saat developer membuat proyek baru, mereka selalu dan akan terus-menerus melakukan pembaruan terhadap kodenya. Bahkan setelah proyeknya online, developer tetap harus mengupdate versinya, memperbaiki bug, menambahkan fitur baru, dan lain sebagainya.
+
+Sistem pengontrol versi membantu para developer dalam melacak perubahan yang mereka lakukan terhadap basis kode. Tak hanya itu, sistem ini juga mencatat siapa saja yang membuat perubahan serta me-restore kode yang telah dihapus atau dimodifikasi.
+
+Karena Git menyimpan banyak salinan kode di repositori, maka tidak ada kode yang saling tertimpa. Silakan baca artikel ini untuk mengetahui lebih banyak tentang Git.
+
+Apa Itu Hub?
+Jika Git adalah jantung, maka Hub adalah jiwa GitHub. Sistem Hub yang ada pada GitHub berfungsi untuk mengubah baris perintah (command line), seperti Git, menjadi jaringan media sosial terbesar bagi para developer.
+
+Selain berkontribusi dalam proyek tertentu, GitHub juga memungkinkan usernya untuk berkomunikasi dengan orang-orang yang memiliki kesamaan visi dan misi. Anda bahkan bisa follow mereka dan melihat proyek yang dilakukan atau bahkan mencari tahu siapa saja yang terhubung dengan mereka.
+
+Repositori
+Repositori atau repo adalah direktori penyimpanan file proyek. Di sini, Anda bisa menyimpan apa pun yang berkaitan dengan proyek yang sedang dibuat, misalnya file kode, gambar, atau audio. Repo sendiri bertempat di penyimpanan atau storage GitHub atau repositori lokal di komputer Anda.
+
+Branch
+Brach merupakan salinan dari repositori milik Anda. Branch digunakan ketika Anda hendak melakukan suatu pengembangan atau development secara terpisah.
+
+Pekerjaan atau task yang dilakukan di branch tidak akan memengaruhi repositori pusat atau branch lainnya. Jika pengembangannya sudah selesai, Anda bisa menggabungkan branch saat ini ke branch lainnya dah juga repositori pusat dengan menggunakan pull request.
+
+Pull Request
+Pull request adalah ketika Anda menginformasikan user bahwa Anda sudah push perubahan yang dilakukan di branch ke master repositori. Collaborator repositori akan menerima atau menolak pull request. Segera setelah pull request diterima, Anda bisa mendiskusikan dan mengulas proyek bersama dengan collaborator.
+
+Berikut beberapa langkah untuk membuat pull request di GitHub:
+
+Masuk ke repositori dan cari menu branch.
+Di menu branch, pilih branch yang menyimpan commit Anda.
+Klik opsi New pull request yang ada di samping menu branch.
+Masukkan judul dan deskripsi pull request.
+Klik opsi Create pull request.
+Forking Repositori
+Forking repositori artinya Anda membuat proyek baru berdasarkan repositori yang sudah ada. Dalam kalimat yang lebih sederhana, forking repo berarti Anda menyalin repositori yang sudah ada, kemudian membuat beberapa perubahan yang diperlukan, lalu menyimpan versi terbarunya sebagai repositori baru, dan menjadikannya proyek Anda sendiri.
+
+Fitur ini akan memperbaiki serta meningkatkan pengembangan proyek yang dilakukan. Karena proyek hasil forking masih baru, maka tidak akan terjadi apa-apa di repositori pusat. Perubahan yang dilakukan di repositori master juga dapat diterapkan di forking Anda saat ini.
+
+Berikut dua langkah untuk forking repositori GitHub:
+
+Cari repositori yang ingin di-forking.
+Klik opsi Fork.
+GitHub Bisa Digunakan Oleh Siapa Saja, Tidak Hanya Developer
+GitHub memang berperan sangat penting dalam memuluskan pekerjaan developer. Namun, platform ini tidak terpaku pada developer saja. Siapa pun bisa menggunakannya untuk mengelola proyek dan bekerja bersama-sama dengan rekan lainnya.
+
+Jika saat ini Anda dan tim sedang mengerjakan proyek yang harus diupdate secara berkala dan ingin melacak serta menyimpan perubahan apa pun yang terjadi, maka GitHub merupakan platform yang tepat untuk aktivitas seperti ini. Alternatif GitHub lainnya yang boleh Anda lirik adalah GitLab, BitBucket.
+
+Apakah Anda punya pertanyaan tentang GitHub? Atau apakah Anda sudah sering menggunakan aplikasi GitHub? Silakan bagikan pengalaman Anda pada kolom komentar di bawah ini.
