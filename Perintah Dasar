@@ -1,0 +1,33 @@
+ Kode Termux | Perintah Dasar Termux Terlengkap
+Kode dasar perintah
+
+    ls >> Merupakan kode perintah termux untuk menampilkan semua isi direktori folder.
+    cd >> Merupakan kode perintah termux untuk membuka dan masuk ke folder.
+    exit >> Merupakan kode perintah termux untuk keluar dari Aplikasi Termux dan menghentikan aktifitas termux.
+    cat >> Merupakan kode perintah termux untuk menampilkan file
+    chmod >> Merupakan kode perintah termux untuk membuat folder yang baru
+    cp >> Merupakan kode perintah termux untuk mencopy atau menyalinfile
+    mv >> Merupakan kode perintah termux untuk memindahkan file
+    pm >> Merupakan kode perintah termux untuk melihat hak akses permission
+    tar >> Merupakan kode perintah termux untuk membuat file yang terkompres (winzip,winrar, 7zip)
+    unzip >> Merupakan kode perintah termux untuk membuat file dengan format .zip .tar
+    top >> Merupakan kode perintah termux untuk menampilkan semua proses yang berjalan
+
+
+
+Kode perintah untuk membuka file
+
+    php "nama file" >> Merupakan kode perintah termux untuk membuka file dengan format PHP
+    python "nama file" >> Merupakan kode perintah termux untuk membuka file dengan format PY
+    txr "nama file" >> Merupakan kode perintah termux untuk membuka file dengan format TXT
+
+
+
+Kode perintah untuk menghapus file
+
+    rm >> Merupakan kode perintah termux untuk menghapus file
+    rmdir >> Merupakan kode perintah termux untuk menghapus folder
+    rm -rf >>Merupakan kode perintah termux untuk menghapus folder dan isinya
+
+
+Itulah beberapa barisan kode perintah dasar pada aplikasi termux di android yang harus kamu ketahui, dan perlu untuk diingat bahwa jangan pernah memberikan tanda petik 2 [" "] ketika akan menjalankan kode perintah dasar termux, karna akan terjadi error dan perintah kode termux tidak akan jalan sebagaimana mestinya. 
